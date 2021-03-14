@@ -29,5 +29,7 @@
     <Folder Include="Resources\Fonts\" />
     <Folder Include="Resources\Images\" />
     <Folder Include="Themes\" />
+    <Folder Include="Views\Views\" />
+    <Folder Include="Views\Pages\" />
   </ItemGroup>
 </Project>
