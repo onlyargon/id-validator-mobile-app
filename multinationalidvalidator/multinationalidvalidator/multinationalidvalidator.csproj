@@ -17,6 +17,7 @@
     <PackageReference Include="Resizetizer.NT" Version="0.2.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="Refractored.MvvmHelpers" Version="1.6.2" />
+    <PackageReference Include="Xamarin.CommunityToolkit" Version="1.0.3" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ViewModels\" />
@@ -31,5 +32,8 @@
     <Folder Include="Themes\" />
     <Folder Include="Views\Views\" />
     <Folder Include="Views\Pages\" />
+    <Folder Include="Service\" />
+    <Folder Include="Resources\Json\" />
+    <Folder Include="Models\Country\" />
   </ItemGroup>
 </Project>
